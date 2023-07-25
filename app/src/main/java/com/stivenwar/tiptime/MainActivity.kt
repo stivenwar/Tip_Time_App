@@ -11,7 +11,7 @@ import java.text.NumberFormat
 import kotlin.math.ceil
 
 class MainActivity : AppCompatActivity() {
-
+    //stivenWar
     private lateinit var binding : ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
